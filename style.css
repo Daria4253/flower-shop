@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth; /* Добавляет плавность даже при обычных якорях */
+}
+
 .about-studio{
     position: absolute;
     top: 30%;
